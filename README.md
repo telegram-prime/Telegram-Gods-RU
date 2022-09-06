@@ -1,6 +1,6 @@
 # Telegram-Gods *(быв. Telegram-Soft)*
 * Description also available in English. See [Telegram Gods Eng](https://github.com/telegram-gods/Telegram-Gods)
-* Description also available in Chineese. See [Telegram Gods CN](https://github.com/telegram-gods/Telegram-Gods-CN)
+* 描述也可以在Chineese中提供。 参见[Telegram Gods CN](https://github.com/telegram-gods/Telegram-Gods-CN)
 
 
 ## Telegram-Gods - Лучшая программа для продвижения в Telegram. 
