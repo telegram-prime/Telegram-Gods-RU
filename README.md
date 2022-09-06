@@ -67,9 +67,13 @@
 
 - Email: telegram-soft-sales[@]prоtonmail.cоm
 - Telegram: @TGG_Sales
-- Twitter: https://twitter.com/Telegram_soft
+- Twitter: https://twitter.com/TelegramGods
 - YouTube: https://www.youtube.com/channel/UCMGDxx-lf9aFbnFujXKk2PQ/videos
 
+
+## Мотивация проэкта:
+* [Купите нам кофе :)](https://commerce.coinbase.com/checkout/3bb9ffcb-4638-480a-a2e8-d930643a230a)
+* Благодарим Вас!
 
 
 
