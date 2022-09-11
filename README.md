@@ -67,8 +67,8 @@
 
 - Email: telegram-soft-sales[@]prоtonmail.cоm
 - Telegram: @TGG_Sales
-- Twitter: https://twitter.com/TelegramGods
-- YouTube: https://www.youtube.com/channel/UCM-XtjvwGyR7p2TudOE5sVg/videos
+- [Twitter](https://twitter.com/TelegramGods)
+- [YouTube Video Guides](https://www.youtube.com/channel/UCM-XtjvwGyR7p2TudOE5sVg/videos)
 
 
 ## Мотивация проекта:
