@@ -65,7 +65,7 @@
 - Web: https://telegram-gods.com/ - RU Version
 - Web: https://telegram-gods.pro/ - EN Version
 
-- Email: telegram-soft-sales[@]prоtonmail.cоm
+- Email: info[@]telegram-gods.com
 - Telegram: @TGG_Sales
 - [Twitter](https://twitter.com/TelegramGods)
 - [YouTube Video Guides](https://www.youtube.com/channel/UCM-XtjvwGyR7p2TudOE5sVg/videos)
